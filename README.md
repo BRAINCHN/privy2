@@ -15,6 +15,9 @@ git clone https://github.com/privy-io/create-next-app
 ```sh
 npm i 
 ```
+```sh
+npm install @privy-io/react-auth@latest
+```
 
 3. Initialize your environment variables by copying the `.env.example` file to an `.env.local` file. Then, in `.env.local`, [paste your Privy App ID from the dashboard](https://docs.privy.io/guide/dashboard/api-keys).
 ```sh
